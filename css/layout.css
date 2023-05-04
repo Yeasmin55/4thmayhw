@@ -1,0 +1,18 @@
+body{
+	font-family: arial;
+	font-size: 16px;
+	font-weight:400;
+	color:skyblue; 
+}
+.container{
+	overflow:hidden; 
+}
+#color1{
+color:red; 
+}
+p{
+	background-color:aliceblue;
+}
+p.container{
+	font-size:20px; 
+}
